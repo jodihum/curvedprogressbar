@@ -10,4 +10,5 @@ This sample app contains a custom UI component that creates a curved progress vi
 - progress width
 - font
 
+![CurvedProgressBar](https://user-images.githubusercontent.com/1429757/68942755-3e070d00-07a1-11ea-917e-e517c0c380b9.png)
                                        
